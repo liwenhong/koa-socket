@@ -1,3 +1,7 @@
+# Koa2中文文档：
+https://www.itying.com/koa/
+
+
 
 [![Build Status](https://travis-ci.org/mattstyles/koa-socket.svg?branch=master)](https://travis-ci.org/mattstyles/koa-socket)
 [![npm version](https://badge.fury.io/js/koa-socket.svg)](https://badge.fury.io/js/koa-socket)
